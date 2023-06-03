@@ -1,7 +1,13 @@
-# Identifikasi Penyakit Daun pada Tanaman Strawberry Menggunakan K-Nearest Neighbor
+# Identifikasi Penyakit Daun pada Tanaman _Strawberry_ Menggunakan K-_Nearest Neighbor_
 ---
 
-Oleh Kelompok 3 Paralel 2 Mata Kuliah Pengolahan Citra Digital
+- Proyek Akhir Mata Kuliah** Pengolahan Citra Digital**
+- Kelompok 3 Paralel 2
+
+## Asisten Praktikum
+- Febri Bawahir
+
+## Anggota Kelompok
 <table>
     <tr>
         <th>Nama</th>
@@ -31,17 +37,14 @@ Oleh Kelompok 3 Paralel 2 Mata Kuliah Pengolahan Citra Digital
 
 ---
 
-## Asisten Praktikum
-Febri Bawahir
-
 ## Tujuan
 
 ## Dataset
 ### Link
-
+[Plant Disease Image Dataset](https://www.kaggle.com/datasets/sadmansakibmahi/plant-disease-expert)
 
 ### Deskripsi
-Dataset ini berisi 
+Dataset ini berisi 2153 gambar daun strawberry yang telah diberi label Strawberry_healthy dan Strawberry_scorch pada penamaannya. Terdapat sebanyak 1722 gambar yang digunakan sebagai data latih dan 431 gambar sebagai data tes (validasi).
 
 ## Tools
-
+- Google Colaboratory

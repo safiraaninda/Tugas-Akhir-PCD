@@ -1,7 +1,7 @@
 # Identifikasi Penyakit Daun pada Tanaman _Strawberry_ Menggunakan K-_Nearest Neighbor_
 ---
 
-- Proyek Akhir Mata Kuliah** Pengolahan Citra Digital**
+- Proyek Akhir Mata Kuliah **Pengolahan Citra Digital**
 - Kelompok 3 Paralel 2
 
 ## Asisten Praktikum

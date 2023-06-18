@@ -1,4 +1,4 @@
-# Identifikasi Penyakit Daun pada Tanaman _Strawberry_ Menggunakan K-_Nearest Neighbor_
+# Identifikasi Penyakit Daun pada Tanaman _Strawberry_ Menggunakan _K_-_Nearest Neighbor_
 ---
 
 - Proyek Akhir Mata Kuliah **Pengolahan Citra Digital**
@@ -38,6 +38,7 @@
 ---
 
 ## Tujuan
+Membangun sebuah model berbasis algoritme _K-Nearest Neighbor_ untuk mengidentifikasi daun sehat dan yang terkena penyakit dari citra daun _strawberry_.
 
 ## Dataset
 ### Link
